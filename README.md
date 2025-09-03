@@ -60,7 +60,7 @@
 
 ---
 
-## 🖥 Despliegue en Streamlit
+##  Despliegue en Streamlit
 
 La app fue desarrollada con `Streamlit` y permite al usuario predecir el precio introduciendo los datos del vuelo.
 
